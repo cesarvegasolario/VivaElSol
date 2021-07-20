@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/VivaElSol/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/VivaElSol/static/js/main.c8d58d10.chunk.js",
+    "main.js.map": "/VivaElSol/static/js/main.c8d58d10.chunk.js.map",
+    "runtime-main.js": "/VivaElSol/static/js/runtime-main.00d9e8f3.js",
+    "runtime-main.js.map": "/VivaElSol/static/js/runtime-main.00d9e8f3.js.map",
+    "static/js/2.823acd0a.chunk.js": "/VivaElSol/static/js/2.823acd0a.chunk.js",
+    "static/js/2.823acd0a.chunk.js.map": "/VivaElSol/static/js/2.823acd0a.chunk.js.map",
+    "static/js/3.34f75dfd.chunk.js": "/VivaElSol/static/js/3.34f75dfd.chunk.js",
+    "static/js/3.34f75dfd.chunk.js.map": "/VivaElSol/static/js/3.34f75dfd.chunk.js.map",
+    "index.html": "/VivaElSol/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/VivaElSol/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.823acd0a.chunk.js.LICENSE.txt": "/VivaElSol/static/js/2.823acd0a.chunk.js.LICENSE.txt",
+    "static/media/12.c37282fe.png": "/VivaElSol/static/media/12.c37282fe.png",
+    "static/media/paneles imagen.9cc4abbf.jpg": "/VivaElSol/static/media/paneles imagen.9cc4abbf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00d9e8f3.js",
+    "static/js/2.823acd0a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c8d58d10.chunk.js"
+  ]
+}
