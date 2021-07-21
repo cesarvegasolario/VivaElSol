@@ -4,6 +4,7 @@ import Inicio from './Inicio/Inicio';
 import Pagina2 from './Pagina2/Pagina2';
 import Servicios from './Servicios/Servicios';
 import AhorroBanner from './AhorroBanner/AhorroBanner';
+import Beneficios from './Beneficios/Beneficios';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
     <Pagina2/>
     <Servicios/>
     <AhorroBanner/>
+    <Beneficios/>
     </>
   );
 }
