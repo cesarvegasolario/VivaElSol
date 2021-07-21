@@ -5,6 +5,8 @@ import Pagina2 from './Pagina2/Pagina2';
 import Servicios from './Servicios/Servicios';
 import AhorroBanner from './AhorroBanner/AhorroBanner';
 import Beneficios from './Beneficios/Beneficios';
+import SolarEnergyBanner from './SolarEnergyBanner/SolarEnergyBanner';
+import ComoLeHacemos from './ComoLeHacemos/ComoLeHacemos';
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
     <Servicios/>
     <AhorroBanner/>
     <Beneficios/>
+    <SolarEnergyBanner/>
+    <ComoLeHacemos/>
     </>
   );
 }

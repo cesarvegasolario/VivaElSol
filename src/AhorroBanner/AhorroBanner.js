@@ -9,7 +9,7 @@ const AhorroBanner = () => {
       height:'357px',
       display:'flex',
       position:'relative',
-      backgroundColor:'black',
+      backgroundColor:'#003DA6',
       justifyContent:'center'
     }}>
       <img src={bannerImage} alt="Paneles" style={{ objectFit:'cover',
