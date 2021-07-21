@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VivaElSol/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/VivaElSol/static/js/main.15cbada8.chunk.js",
-    "main.js.map": "/VivaElSol/static/js/main.15cbada8.chunk.js.map",
+    "main.js": "/VivaElSol/static/js/main.3df3098d.chunk.js",
+    "main.js.map": "/VivaElSol/static/js/main.3df3098d.chunk.js.map",
     "runtime-main.js": "/VivaElSol/static/js/runtime-main.00d9e8f3.js",
     "runtime-main.js.map": "/VivaElSol/static/js/runtime-main.00d9e8f3.js.map",
     "static/js/2.823acd0a.chunk.js": "/VivaElSol/static/js/2.823acd0a.chunk.js",
@@ -14,13 +14,15 @@
     "static/js/2.823acd0a.chunk.js.LICENSE.txt": "/VivaElSol/static/js/2.823acd0a.chunk.js.LICENSE.txt",
     "static/media/12.c37282fe.png": "/VivaElSol/static/media/12.c37282fe.png",
     "static/media/3.e15479f5.png": "/VivaElSol/static/media/3.e15479f5.png",
+    "static/media/Beneficios.0faf12c4.PNG": "/VivaElSol/static/media/Beneficios.0faf12c4.PNG",
     "static/media/Grupo 19@1X.b4310186.png": "/VivaElSol/static/media/Grupo 19@1X.b4310186.png",
-    "static/media/paneles imagen.9cc4abbf.jpg": "/VivaElSol/static/media/paneles imagen.9cc4abbf.jpg"
+    "static/media/paneles imagen.9cc4abbf.jpg": "/VivaElSol/static/media/paneles imagen.9cc4abbf.jpg",
+    "static/media/panelsFamily.41e000e8.PNG": "/VivaElSol/static/media/panelsFamily.41e000e8.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.00d9e8f3.js",
     "static/js/2.823acd0a.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.15cbada8.chunk.js"
+    "static/js/main.3df3098d.chunk.js"
   ]
 }
