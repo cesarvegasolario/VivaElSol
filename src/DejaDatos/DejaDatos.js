@@ -1,16 +1,18 @@
 import HombreViendoPanel from '../Images/5.png';
+import FranjaContacto from '../Images/FranjaContacto.PNG';
 
 const DejaDatos = () => {
 
   return(
     <>
+    <div style={{backgroundColor:'#F5F5F5', paddingBottom:'130px'}}>
     <div
     style={{
       display:'flex',
       justifyContent:'center',
       height:'115px',
       width:'100vw',
-      marginBottom:'10px'
+      marginBottom:'10px',
     }}>
       <p style={{fontSize:'30px', textAlign:'center', alignSelf:'center', width:'724px'}}> DEJANOS TUS DATOS Y NOSOTROS NOS PONEMOS EN CONTACTO CONTIGO.</p>
       
@@ -33,6 +35,10 @@ const DejaDatos = () => {
         <button style={{backgroundColor:'#115EE2', padding:'10px 287px', color:'white',  fontSize:'26px', position:'absolute', marginTop:'570px'}}>Envíar</button>
         
       </div>
+    </div>
+    </div>
+    <div style={{display:'flex', justifyContent:'center'}}>
+      <img src={FranjaContacto} alt="FranjaContacto" style={{position:'absolute', marginTop:'-50px'}} />
     </div>
     </>
   )
