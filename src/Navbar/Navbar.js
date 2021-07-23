@@ -29,7 +29,7 @@ const Navbar = () => {
     style={{
       position:'absolute',
       height:'153px',
-      width: '100vw',
+      width:'100vw',
       backgroundColor: 'white',
       display:'flex',
       alignItems:'center',

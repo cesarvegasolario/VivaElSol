@@ -10,7 +10,8 @@ const SolarEnergyBanner = () => {
       display:'flex',
       position:'relative',
       backgroundColor:'#003DA6',
-      justifyContent:'center'
+      justifyContent:'center',
+      width:'100vw',
     }}>
       <img src={bannerImage} alt="Paneles" style={{ objectFit:'cover',
       width: '100vw', opacity:'.37'}} />

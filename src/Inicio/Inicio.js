@@ -8,16 +8,15 @@ const Inicio = () => {
     <div
     style={{
       height:'1047px',
-      width: '100vw',
       display:'flex',
       position:'relative',
       marginTop:'250px',
-      backgroundColor:'black'
+      backgroundColor:'black',
+      width:'100vw'
     }}>
-      <img src={logoSolarioBlanco} alt="Viva el sol logo" style={{height:'78px', marginTop:'106px', position:'absolute', right:'50%'}} />
-      <img src={panelesImage} alt="Paneles" style={{ height:'1047px',
-      width: '100vw', opacity:'.37'}} />
-      <p style={{marginTop:'220px', position:'absolute', textAlign:'center', color: 'white', fontSize:'70px'}}>EMPRESA LÍDER DE PANELES SOLARES EN MÉXICO</p>
+      <img src={logoSolarioBlanco} alt="Viva el sol logo" style={{height:'78px', marginTop:'106px', position:'absolute', right:'49%'}} />
+      <img src={panelesImage} alt="Paneles" style={{ width:'100vw', opacity:'.37'}} />
+      <p style={{marginTop:'220px', position:'absolute', textAlign:'center', color: 'white', fontSize:'70px', width:'100vw'}}>EMPRESA LÍDER DE PANELES SOLARES EN MÉXICO</p>
     </div>
     </>
   )

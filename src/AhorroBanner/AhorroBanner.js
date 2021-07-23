@@ -8,6 +8,7 @@ const AhorroBanner = () => {
     style={{
       height:'357px',
       display:'flex',
+      width:'100vw',
       position:'relative',
       backgroundColor:'#003DA6',
       justifyContent:'center'

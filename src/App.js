@@ -7,6 +7,8 @@ import AhorroBanner from './AhorroBanner/AhorroBanner';
 import Beneficios from './Beneficios/Beneficios';
 import SolarEnergyBanner from './SolarEnergyBanner/SolarEnergyBanner';
 import ComoLeHacemos from './ComoLeHacemos/ComoLeHacemos';
+import EsquemasDeAdmision from './EsquemasDeAdmision/EsquemasDeAdmision';
+import DejaDatos from './DejaDatos/DejaDatos';
 
 function App() {
   return (
@@ -19,6 +21,8 @@ function App() {
     <Beneficios/>
     <SolarEnergyBanner/>
     <ComoLeHacemos/>
+    <EsquemasDeAdmision/>
+    <DejaDatos/>
     </>
   );
 }
