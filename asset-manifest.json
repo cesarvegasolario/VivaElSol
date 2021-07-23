@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VivaElSol/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/VivaElSol/static/js/main.d49e2410.chunk.js",
-    "main.js.map": "/VivaElSol/static/js/main.d49e2410.chunk.js.map",
+    "main.js": "/VivaElSol/static/js/main.b9fd2ae8.chunk.js",
+    "main.js.map": "/VivaElSol/static/js/main.b9fd2ae8.chunk.js.map",
     "runtime-main.js": "/VivaElSol/static/js/runtime-main.00d9e8f3.js",
     "runtime-main.js.map": "/VivaElSol/static/js/runtime-main.00d9e8f3.js.map",
     "static/js/2.823acd0a.chunk.js": "/VivaElSol/static/js/2.823acd0a.chunk.js",
@@ -18,7 +18,11 @@
     "static/media/04EmpiezaAhorrar.7f0766e1.PNG": "/VivaElSol/static/media/04EmpiezaAhorrar.7f0766e1.PNG",
     "static/media/12.c37282fe.png": "/VivaElSol/static/media/12.c37282fe.png",
     "static/media/3.e15479f5.png": "/VivaElSol/static/media/3.e15479f5.png",
+    "static/media/5.5caf4fb3.png": "/VivaElSol/static/media/5.5caf4fb3.png",
     "static/media/Beneficios.0faf12c4.PNG": "/VivaElSol/static/media/Beneficios.0faf12c4.PNG",
+    "static/media/CREDITO.88717339.PNG": "/VivaElSol/static/media/CREDITO.88717339.PNG",
+    "static/media/DeContado.f4d80522.PNG": "/VivaElSol/static/media/DeContado.f4d80522.PNG",
+    "static/media/Financiamiento.c8f05d55.PNG": "/VivaElSol/static/media/Financiamiento.c8f05d55.PNG",
     "static/media/Grupo 19@1X.b4310186.png": "/VivaElSol/static/media/Grupo 19@1X.b4310186.png",
     "static/media/paneles imagen.9cc4abbf.jpg": "/VivaElSol/static/media/paneles imagen.9cc4abbf.jpg",
     "static/media/panelsFamily.41e000e8.PNG": "/VivaElSol/static/media/panelsFamily.41e000e8.PNG"
@@ -27,6 +31,6 @@
     "static/js/runtime-main.00d9e8f3.js",
     "static/js/2.823acd0a.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.d49e2410.chunk.js"
+    "static/js/main.b9fd2ae8.chunk.js"
   ]
 }
