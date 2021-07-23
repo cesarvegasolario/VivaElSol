@@ -9,6 +9,7 @@ import SolarEnergyBanner from './SolarEnergyBanner/SolarEnergyBanner';
 import ComoLeHacemos from './ComoLeHacemos/ComoLeHacemos';
 import EsquemasDeAdmision from './EsquemasDeAdmision/EsquemasDeAdmision';
 import DejaDatos from './DejaDatos/DejaDatos';
+import PieDePagina from './PieDePagina/PieDePagina';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
     <ComoLeHacemos/>
     <EsquemasDeAdmision/>
     <DejaDatos/>
+    <PieDePagina/>
     </>
   );
 }
